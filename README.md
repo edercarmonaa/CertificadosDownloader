@@ -31,6 +31,15 @@ Reduce las consultas repetitivas, reutiliza la correspondencia entre descripcion
 
 Para personas encargadas de reunir certificados y calificaciones a partir de listas de folios autorizados. La misma persona administra los catálogos y ejecuta las descargas; el código no define roles, cuentas ni permisos de usuario.
 
+## Capturas
+
+### Interfaz
+
+![Interfaz](docs/interfaz.png)
+
+
+
+
 ## Tecnologías utilizadas
 
 | Tecnología | Uso | Versión declarada |

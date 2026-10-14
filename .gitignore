@@ -1,0 +1,86 @@
+# Build outputs
+bin/
+obj/
+.nuget/
+dist/
+build/
+publish/
+
+# User-specific IDE files
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Environment and local configuration
+.env
+.env.*
+!.env.example
+appsettings.Development.json
+appsettings.Local.json
+
+# Logs and temporary files
+logs/
+*.log
+tmp/
+temp/
+cache/
+coverage/
+TestResults/
+
+# Local databases and dumps
+*.sqlite
+*.sqlite3
+*.db
+*.db-*
+*.sqlite-*
+*.sqlite3-*
+data/
+*.dump
+*.sql
+!Database/**/*.sql
+
+# Backups and local copies
+*.bak
+*.backup
+*.old
+*.copy
+
+# Secrets and credentials
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+service-account.json
+firebase-adminsdk*.json
+google-services.json
+auth.json
+secrets.json
+secrets.yml
+secrets.yaml
+id_rsa
+id_ed25519
+
+# Downloaded/generated packages and archives
+*.zip
+*.rar
+*.7z
+*.nupkg
+*.exe
+*.dll
+*.pdb
+
+# Generated application output
+Descargas/
+downloads/
+output/
+salida/
+*.pdf
+certificados_*.json
+calificaciones/
+*.csv
+*.xlsx
+*.xls
